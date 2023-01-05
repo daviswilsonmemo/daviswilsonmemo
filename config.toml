@@ -27,7 +27,10 @@ enableRobotsTXT = true
   [markup.tableOfContents]
     endLevel = 3
     ordered = false
-    startLevel = 1
+    startLevel = 2
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   text_color = ""

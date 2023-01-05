@@ -39,6 +39,50 @@ In January 1998, Jacques Gansler (the new USDAT) and Wilson talked and Gansler h
 
 ### Sparked Interest
 
+<div>
+    <figure role="group" style="display:flex; justify-content:space-evenly; flex-wrap:wrap">
+        <figure align=center>
+            <img src="/images/large/Greer.jpg" width=225 height=250 />
+            <figcaption><b>Dr. Steven Greer</b></figcaption>
+            <figcaption>Ufologist</figcaption>
+        </figure>
+        <figure align=center>
+            <img src="/images/large/Miller.jpg" width=225 height=250/>
+            <figcaption><b>Cmdr. Willard Miller</b></figcaption>
+            <figcaption>Ufologist</figcaption>
+        </figure>        
+        <figure align=center>
+            <img src="/images/large/Mitchell.jpg" width=225 height=250/>
+            <figcaption><b>Dr. Edgar Mitchell</b></figcaption>
+            <figcaption>Apollo 14 Astronaut</figcaption>
+            <figcaption><em>Died Feb 2016</em></figcaption>
+        </figure>
+        <figure align=center>
+            <img src="/images/large/Wilson.jpg" width=225 height=250/>
+            <figcaption><b>Admr. Thomas Wilson</b></figcaption>
+            <figcaption><b>Vice Director for Intelligence,</b></figcaption>
+            <figcaption>Joint Staff <u>(Nov 1994 – Sep 1997)</u></figcaption>
+            <figcaption>Director of DIA <u>(Jul 1999 – Jul 2002)</u></figcaption>
+        </figure>
+        <figure align=center>
+            <img src="/images/large/Cramer.jpg" width=225 height=250/>
+            <figcaption><b>Adm. Michael Cramer</b></figcaption>
+            <figcaption>Director for Intelligence (J-2)</figcaption>
+            <figcaption>Joint Staff<u>(Jun 1992 – Aug 1994)</u></figcaption>
+            <figcaption><b>Director of Naval Intelligence</b></figcaption>
+            <ficaption><u>(Sep 1994 – May 1997)</u></figcaption>
+        </figure>
+        <figure align=center>
+            <img src="/images/large/Wilson.jpg" width=225 height=250/>
+            <figcaption><b>Admr. Thomas Wilson</b></figcaption>
+            <figcaption><b>Vice Director for Intelligence,</b></figcaption>
+            <figcaption>Joint Staff <u>(Nov 1994 – Sep 1997)</u></figcaption>
+            <figcaption>Director of DIA <u>(Jul 1999 – Jul 2002)</u></figcaption>
+        </figure>
+        <figcaption></figcaption>
+    </figure>
+</div>
+
 **April 9, 1977** 
 * **Dr. Steven Greer**, **Cmdr. Willard Miller**, **Dr. Edgar Mitchel**, and others hold a confidential congressional briefing at the Westin Hotel in Washington. VIPs in attendnace include the Chair of the House Committee on Government Reform and Oversight, staffers from nearly thirty congressional offices, and representatives of two state governors, the Department of Defense, and others.
 
