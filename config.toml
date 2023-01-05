@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Ananke"
+    title = ""
     weight = 1
     # languageDirection = 'rtl' for Right-To-Left languages
 
