@@ -246,3 +246,39 @@ https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-202205
 
 **December 2022**
 * House approves reconciled NDAA as H.R. 7776 in a 350-80 vote on December 8, 2022 and the Senate approves in a 83-11 vote on December 15, 2022 (see Appendix II). It was signed by President Joe Biden on December 23, 2022 and became Public Law 117-263.
+
+## Appendix I: Public Statements
+
+### Public Statements from Adm. Tom Wilson
+
+#### Adm. Tom Wilson, interviewed by Billy Cox (Aug 5, 2008)
+When asked if he’d ever been barred from retrieving classified material, exotic or otherwise, during his career:
+
+> Never
+
+#### Interview with Billy Cox (2020)
+Primary quotes from interview: 
+
+> It’s all fiction. I wouldn’t know Eric Davis if he walked in right now.
+
+> I’m not saying that sometime, somewhere, I never met (Davis), but I certainly don’t know him, I don’t remember him, and I definitely did not sit with him in a car for an hour in Las Vegas.
+
+> You may also see in those notes where I came with two other naval officers, a lieutenant and a lieutenant commander, and a petty officer who was driving the car. I was not even in the Navy then. And the Navy was certainly not ferrying me around in a car at that point. Those notes are really detailed – it’s like somebody wrote a fiction piece. But it never happened, trust me. There are so many things in those notes that are demonstrably inaccurate. And I don’t know how I could prove it, but I haven’t been to Las Vegas since 1979, 80.
+
+On the synopsis of the notes: 
+> Silly.
+
+Regarding a meeting referenced in the notes
+> I don’t remember the details, but they [Mitchell was accompanied by UFO researcher Steven Greer] said there would be evidence in black programs, and would I be interested in chasing it down. I told them I had far too many things to do. I’m not saying there are no such programs because I don’t know. I didn’t check or follow up. It might not have been a waste of time for somebody (to pursue), but I did not have time to waste, believe me. At the time I was up to my eyeballs in Bosnia and Kosovo and Korea and Iraq and, you name it, terrorism. So I didn’t feel I should spend my time — well, I had enough black programs I had to deal with.
+
+#### Email to Ross Coulthart (June 30, 2020)
+> The entire memo attributed to Dr. Davis, including his characterization of my attitude, emotions and sentiments about other individuals is pure fiction.” “Many of the people (Oke Shannon, Mike Crawford, Linda, Rich, Doug) he characterizes in the memo as people I interacted with are completely unknown to me, as are the conversations I purportedly had on Special Access Programs related to UFOs with senior officials in the Department of Defence ...
+
+#### Email to Billy Cox (September 2022)
+> To my knowledge I have never met Oke Shannon, and certainly didn’t call him to arrange any meetings with anybody . . . This whole debate about ‘the memo’ is ludicrous as far as I’m concerned.
+
+### Public Statements from others in Davis-Wilson Memo
+#### Dr. Eric Davis, interviewed by Steven Greenstreet (Nov 2019)
+> I can’t discuss that.” “I’m not at liberty to discuss it.
+
+> They were leaked out of Ed Mitchell’s estate and there’s nothing I can say about it.
