@@ -1,7 +1,7 @@
 title = "Davis Wilson Memo"
 baseURL = "https://daviswilsonmemo.github.io"
 languageCode = "en-us"
-theme = ["ananke"]
+theme = ["hello-friend"]
 publishDir = "docs"
 resourceDir = "resources"
 
@@ -22,6 +22,13 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
+
 [params]
   text_color = ""
   author = ""
@@ -31,6 +38,27 @@ enableRobotsTXT = true
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 1
+
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # OS theme is default when not provided, but you can force it to "light" or "dark"
+  defaultTheme = "dark"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+
+  # Show reading time in minutes for posts
+  showReadingTime = false
+
+  # Show table of contents at the top of your posts (defaults to false)
+  # Alternatively, add this param to post front matter for specific posts
+  # toc = true
+
+  # Show full page content in RSS feed items
+  #(default is Description or Summary metadata in the front matter)
+  # rssFullText = true
 
 [[params.ananke_socials]]
 name = "twitter"
