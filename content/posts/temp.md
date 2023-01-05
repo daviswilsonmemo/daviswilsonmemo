@@ -40,7 +40,7 @@ In January 1998, Jacques Gansler (the new USDAT) and Wilson talked and Gansler h
 ### Sparked Interest
 
 <div>
-    <figure role="group" style="display:flex; justify-content:space-evenly; flex-wrap:wrap">
+    <figure role="group" style="display:flex; justify-content:space-between; flex-wrap:wrap">
         <figure align=center>
             <img src="/images/large/Greer.jpg" width=225 height=250 />
             <figcaption><b>Dr. Steven Greer</b></figcaption>
